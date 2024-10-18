@@ -1,3 +1,3 @@
 # Prueba
 
-[note!]
+> [!note]
